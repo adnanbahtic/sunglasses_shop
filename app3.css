@@ -1,0 +1,61 @@
+body {
+    background: white;
+  }
+
+  #mainNavbar {
+    border-bottom: white solid 1px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+  }
+
+  .navbar-brand {
+    font-size: 30px;
+  }
+
+  .navbar.scrolled {
+    background: white;
+    transition: background 500ms;
+  }
+
+
+.card-title
+{
+    text-align: center;
+    color: #1F85DE;
+}
+
+.card-text
+{
+    text-align: center;
+    color: #1F85DE;
+}
+
+ .div1
+ {
+     padding-top: 100px;
+    padding-left: 15px;
+    border-bottom: #1F85DE solid 1px;
+    margin-bottom: 20px;
+    background-color: white;
+    color: #1F85DE;
+ }
+
+ .card
+ {
+     margin-bottom: 10px;
+ }
+
+ .btn
+ {
+     width: 30%;
+    margin:auto;
+    display:block;
+
+ }
+ .footer{
+    background: black;
+    color:white;
+
+
+  }

@@ -1,0 +1,140 @@
+body {
+  background: white;
+}
+
+#mainNavbar {
+  border-bottom: black solid 1px;
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar.scrolled {
+  background: white;
+  transition: background 500ms;
+}
+
+
+
+.slika {
+  height: 100vh;
+  background-size: cover;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-fluid1 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  #mainNavbar {
+    border-bottom: black solid 1px;
+    background-color: white;
+  }
+}
+
+.top-left {
+  font-size: 60px;
+  position: absolute;
+  top: 70px;
+  left: 16px;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  .top-left {
+    font-size: 40px;
+    position: absolute;
+    top: 50px;
+    left: 16px;
+  }
+
+
+}
+
+
+#mainNavbar {
+  border-bottom: white solid 1px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar.scrolled {
+  background: white;
+  transition: background 500ms;
+}
+
+body {
+  background: white;
+}
+
+#mainNavbar {
+  border-bottom: white solid 1px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar.scrolled {
+  background: white;
+  transition: background 500ms;
+}
+
+
+.card-title
+{
+  text-align: center;
+  color: #1F85DE;
+}
+
+.card-text
+{
+  text-align: center;
+  color: #1F85DE;
+}
+
+.div1
+{
+   padding-top: 20px;
+  padding-left: 15px;
+  border-bottom: #1F85DE solid 1px;
+  margin-bottom: 20px;
+  background-color: white;
+  color: #1F85DE;
+}
+
+.card
+{
+   margin-bottom: 10px;
+}
+
+.btn
+{
+   width: 30%;
+  margin:auto;
+  display:block;
+
+}
+.footer{
+  background: black;
+  color:white;
+
+
+}
